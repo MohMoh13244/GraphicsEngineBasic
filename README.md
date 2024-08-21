@@ -10,7 +10,7 @@ An in house made Culling Algorithm!
 Shading
 Bezier Curve Algorithm
 
-TO RUN
+*TO RUN*
 Build the program using a C/C++ compiler such as GCC simpleview.cpp as the main file and execute!
 OR 
 Simply use the executable in the /Build folder
